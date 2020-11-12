@@ -15,4 +15,5 @@ COPY . /app
 
 RUN pip3 install -r requirements.txt
 
-CMD jupyter-notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=""
+CMD voila App.ipynb --port=8888 --VoilaConfiguration.file_whitelist="['.*']" \ 
+  --VoilaConfiguration.file_blacklist="['private.*', '.*\.(ipynb)']"
