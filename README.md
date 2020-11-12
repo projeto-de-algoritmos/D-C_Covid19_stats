@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Covid-19 Stats
 
 **Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Dividir e conquistar<br>
@@ -36,7 +36,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+O dado utilizado no projeto está disponível no [Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv).
 
 
 
