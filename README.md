@@ -10,10 +10,15 @@
 | 17/0050939 | Lucas Dutra |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Essa aplicação tem como objetivo utilizar dados reais, sobre a COVID-19 disponibilizados na plataforma [Kaggle](https://www.kaggle.com/) e, a partir desses dados, aplicar métodos de ordenação que são implementados utilizando o paradigma de Dividir e Conquistar. A aplicação conta com Merge Sort e Quick Sort como opções de ordenação e, também, é possível selecionar qual atributo a ordenação será aplicada.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+* Colunas disponíveis
+![columns](img/columns.png)
+* Quick sort
+![Quicksort](img/quicksort.png)
+* Merge sort
+![MergeSort](img/mergesort.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -33,7 +38,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
     ```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+1. Escolher o método de Ordenação.
+2. Escolher a coluna em que o método será aplicado.
+3. Clickar no botão "Sort ▶️"
 
 ## Outros 
 O dado utilizado no projeto está disponível no [Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv).
