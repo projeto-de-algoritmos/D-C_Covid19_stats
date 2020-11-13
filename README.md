@@ -10,6 +10,7 @@
 | 17/0050939 | Lucas Dutra |
 
 ## Sobre 
+[Vídeo](https://github.com/projeto-de-algoritmos/D-C_Covid19_stats/blob/master/explicao.mp4)  
 Essa aplicação tem como objetivo utilizar dados reais, sobre a COVID-19 disponibilizados na plataforma [Kaggle](https://www.kaggle.com/) e, a partir desses dados, aplicar métodos de ordenação que são implementados utilizando o paradigma de Dividir e Conquistar. A aplicação conta com Merge Sort e Quick Sort como opções de ordenação e, também, é possível selecionar qual atributo a ordenação será aplicada.
 
 ## Screenshots
